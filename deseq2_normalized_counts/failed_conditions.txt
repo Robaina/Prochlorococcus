@@ -1,0 +1,6 @@
+condition = 95, factor: PAR.PC failed with exception: Error in DESeqDataSet(se, design = design, ignoreRank) : 
+  counts matrix should be numeric, currently it has mode: logical
+
+condition = 98, factor: PAR.PC failed with exception: Error in DESeqDataSet(se, design = design, ignoreRank) : 
+  counts matrix should be numeric, currently it has mode: logical
+
