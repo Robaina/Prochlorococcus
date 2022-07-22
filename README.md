@@ -1,5 +1,3 @@
-# Codebase of _Transcriptional mechanisms of thermal acclimation in Prochlorococcus_, Alonso-Sáez et al., 2022
-
 This repository contains the python code employed to generate the environmental normalized count data shown in the accompanying publication.
 
 
